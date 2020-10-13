@@ -11,7 +11,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <webdriverManagerVersion>3.5.0</webdriverManagerVersion>
-        <junitVersion>4.12</junitVersion>
+        <junitVersion>4.13.1</junitVersion>
         <seleniumVersion>3.11.0</seleniumVersion>
         <CukesVersion>1.2.5</CukesVersion>
     </properties>
